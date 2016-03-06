@@ -2,7 +2,7 @@
 Simple dotfile configuration manager.
 
 ## Installation
-Python version 3+ is required.
+Python version 3.3+ is required.
 The only package required is the Jinja 2 template engine.
 
 ```bash
